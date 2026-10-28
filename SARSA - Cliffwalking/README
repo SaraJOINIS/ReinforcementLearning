@@ -1,0 +1,17 @@
+# SARSA - Cliffwalking
+
+Ce dossier comprend un script comprenant algorithme **SARSA**  (apprentissage par renforcement) entraîné sur l'environnement [`CliffWalking-v0`](https://www.gymlibrary.dev/environments/toy_text/cliff_walking/) issu de la **librairie Python Gymnasium**.
+
+Cet algorithme est implémenté dans un fichier **Jupyter Notebook** (extension `.ipynb`), ainsi la documentation associée est directement accessible au sein du fichier.
+
+## Aspects techniques
+
+Ce script a été développé et exécuté sur **Windows 11**, et utilise la **version 3.13.2** de Python.
+
+## Exécution de l'algorithme dans VSCode
+
+Ouvrir le fichier d'extension `.ipynb`, puis cliquer sur l'onglet `Run All`.
+
+## Résultats obtenus
+
+Les résultats obtenus suite à l'exécution du script sont compris dans le dossier [Outputs](./Outputs/).

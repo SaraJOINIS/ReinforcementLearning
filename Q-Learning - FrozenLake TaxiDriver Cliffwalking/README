@@ -1,0 +1,17 @@
+# Q-Learning - FrozenLake, TaxiDriver, Cliffwalking
+
+Ce dossier comprend trois scripts, chacun comprenant algorithme de **Q-Learning**  (apprentissage par renforcement) entraîné sur un environnement issu de la **librairie Python Gymnasium** : [`FrozenLake-v1`](https://www.gymlibrary.dev/environments/toy_text/frozen_lake/), [`Taxi-v3`](https://www.gymlibrary.dev/environments/toy_text/taxi/) et [`CliffWalking-v0`](https://www.gymlibrary.dev/environments/toy_text/cliff_walking/).
+
+Chaque algorithme est implémenté dans un fichier **Jupyter Notebook** (extension `.ipynb`), ainsi la documentation associée est directement accessible au sein du fichier.
+
+## Aspects techniques
+
+Ces scripts ont été développés et exécutés sur **Windows 11**, et utilisent la **version 3.13.2** de Python.
+
+## Exécution des algorithmes dans VSCode
+
+Ouvrir le fichier souhaité d'extension `.ipynb`, puis cliquer sur l'onglet `Run All`.
+
+## Résultats obtenus
+
+Les résultats obtenus suite à l'exécution des scripts sont compris dans le dossier [Outputs](./Outputs/) (sous-dossiers [Cliffwalking](./Outputs/Cliffwalking/), [FrozenLake](./Outputs/FrozenLake/) et [TaxiDriver](./Outputs/TaxiDriver/))
